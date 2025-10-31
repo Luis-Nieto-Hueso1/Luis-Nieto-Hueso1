@@ -29,6 +29,33 @@
 ![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+---
+
+### 🧪 Testing & QA Automation  
+![Playwright](https://img.shields.io/badge/Playwright-black?style=for-the-badge&logo=playwright)
+![Selenium](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)
+![Pytest](https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=pytest)
+![Cucumber](https://img.shields.io/badge/Cucumber-black?style=for-the-badge&logo=cucumber)
+![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5)
+![TestNG](https://img.shields.io/badge/TestNG-black?style=for-the-badge&logo=testng)
+![Allure](https://img.shields.io/badge/Allure-black?style=for-the-badge&logo=allure)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Newman](https://img.shields.io/badge/Newman-black?style=for-the-badge&logo=postman)
+![Applitools](https://img.shields.io/badge/Applitools-black?style=for-the-badge&logo=applitools)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-black?style=for-the-badge&logo=browserstack)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins)
+![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)
+![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)
+![TestRail](https://img.shields.io/badge/TestRail-black?style=for-the-badge&logo=testrail)
+![Slack](https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack)
+![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-badge&logo=confluence)
+
+---
+
 
 ### ⚡ Data Engineering & Big Data  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apache-spark)
