@@ -113,6 +113,6 @@ Currently mastering **Playwright, Selenium, and Python automation**, while explo
 ## 📈 **Profile Views**
 <p align="center">
   <a href="https://github.com/Luis-Nieto-Hueso1">
-    <img src="https://komarev.com/ghpvc/?username=luisnietohueso&color=blue&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=Luis-Nieto-Hueso1&color=blue&style=flat">
   </a>
 </p>
