@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luis Nieto
 
-🎯 **Junior Quality Engineer | Automation & Data Enthusiast | London, UK**
+🎯 ** Quality Engineer | Automation & Data Enthusiast | London, UK**
 
 I’m passionate about building reliable, data-driven systems that merge **testing, automation, and analytics**.  
 Currently mastering **Playwright, Selenium, and Python automation**, while exploring **AI-driven QA**, **Neo4j**, and **cloud-based testing pipelines**.
